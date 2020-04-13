@@ -14,7 +14,7 @@
     "lint": "tslint --project tsconfig.json",
     "coverage": "jest --coverage",
     "test-watch": "jest --watch",
-    "test": "jest"
+    "test": "jest --runInBand --runTestsByPath $(cat test_list.txt)"
   },
   "repository": {
     "type": "git",

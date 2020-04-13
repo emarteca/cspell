@@ -1,6 +1,9 @@
 {
   "packages": [
-    "packages/*"
+    "packages/cspell-io",
+    "packages/cspell",
+    "packages/cspell-trie-lib",
+    "packages/cspell-tools"
   ],
   "version": "5.0.1-alpha.3"
 }

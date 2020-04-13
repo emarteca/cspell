@@ -15,7 +15,7 @@
     "clean-build": "npm run clean && npm run build",
     "coverage": "jest --coverage",
     "test-watch": "jest --watch",
-    "test": "jest",
+    "test": "jest --runInBand --runTestsByPath $(cat test_list.txt)",
     "watch": "tsc -w"
   },
   "repository": {

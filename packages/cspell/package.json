@@ -27,7 +27,7 @@
     "test-ts": "../../node_modules/.bin/jest",
     "test-watch": "jest --watch",
     "prepublishOnly": "npm run lint && npm run clean-build && npm test",
-    "test": "jest"
+    "test": "jest --runInBand --runTestsByPath $(cat test_list.txt)"
   },
   "repository": {
     "type": "git",
