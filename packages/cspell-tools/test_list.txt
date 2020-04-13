@@ -1,3 +1,2 @@
-/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-tools/src/compiler/fileWriter.test.ts
 /home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-tools/src/app.test.ts
 /home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-tools/src/compiler/wordListCompiler.test.ts
