@@ -15,6 +15,8 @@ module.exports = {
         "json",
         "node"
     ],
+    "setupFiles": ['../../unit-error-hack.js'],
+    "reporters": [ 'default', ['jest-junit', {"outputDirectory": '.', "outputName": '../../junit-unit-tests.xml'}]],
     "coverageReporters": ["html", "json", ["lcov", {"projectRoot": "../../"}], "text"],
     "collectCoverageFrom": [
         "src/**/*.ts",
