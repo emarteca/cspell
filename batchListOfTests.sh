@@ -24,7 +24,7 @@ for x in $(eval echo {1..$1}); do
 	echo "Running test suite: " $x
 	npm run test:lerna 2>> $3 
 	sed -rin "s/\x1B\[([0-9]{1,3}(;[0-9]{1,2})?)?[mGK]//g" $3
-	python process_jest_xml_out.py $4
+	python process_junit_xml_out.py $4
 	echo "Done running test suite, cleaning up now..."
 	rm -rf /tmp/*
 done
