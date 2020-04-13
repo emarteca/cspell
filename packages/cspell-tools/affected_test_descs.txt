@@ -1,0 +1,16 @@
+Validate the application test app compile with compression
+Validate the application test app compile-trie max depth
+Validate the application test app compile merge
+Validate the wordListCompiler test reading and normalizing a file
+Validate the wordListCompiler test compiling to a file without split
+Validate the application test app compile
+Validate the application test app compile-trie compress
+Validate the application test app compile-trie -o
+Validate the application test app compile-trie compound
+Validate the wordListCompiler test reading and normalizing to a trie file
+Validate the wordListCompiler test a simple hunspell dictionary depth 1
+Validate the wordListCompiler test a simple hunspell dictionary depth 0
+Validate the writer tests writing an Rx.Observable and reading it back.
+Validate the application test app compile compound
+Validate the application test app compile-trie
+Validate the wordListCompiler test reading and normalizing to a trie gz file

@@ -23,7 +23,7 @@
     "publish-coverage-coveralls": "globcat packages/*/coverage/lcov.info | coveralls",
     "publish-coverage-codecov": "globcat packages/*/coverage/lcov.info | codecov --pipe",
     "test": "lerna run test && ajv -s ./cspell.schema.json -d cspell.json",
-    "test:lerna": "lerna run test --stream"
+    "test:lerna": "lerna run test --stream --no-bail"
   },
   "repository": {
     "type": "git",

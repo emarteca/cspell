@@ -1,0 +1,6 @@
+/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-trie-lib/src/lib/importExportV3.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-trie-lib/src/lib/importExportV1.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-trie-lib/src/lib/importExportV2.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-trie-lib/src/lib/importExportV3.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-trie-lib/src/lib/importExportV1.test.ts
+/home/ellen/Documents/ASJProj/TESTING_reordering/cspell/packages/cspell-trie-lib/src/lib/importExportV2.test.ts

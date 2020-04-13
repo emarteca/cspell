@@ -1,0 +1,7 @@
+Validate the writer tests writeToFile
+Validate the writer tests writeToFile zip
+Validate the fileReader tests reading the cities sample
+Validate the fileReader tests streamFileLineByLineAsync
+Validate the fileReader tests streamFileLineByLineAsync 2
+Validate the writer tests writing data and reading it back.
+Validate the writer tests writing data and reading it back. gz
